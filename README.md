@@ -2,21 +2,18 @@
 [`Lab Sessions`](#lectures) | [`Instructors`](#instructors) | [`License`](#license)
 
 ## Lab Sessions
-| ID  | Name                                         | HTML               | RMD          | 
+| ID  | Name                                         | HTML               | R Markdown          | 
 |-----|----------------------------------------------|--------------------|--------------|
-| 01  | Introduction, R basics and best practices    | [**html**][introduction_html]       | [**rmd**][introduction_rmd]   | 
-| 02  | Version control and project management       | [**html**][version_control_html]  | [**rmd**][version_control_rmd]  | 
-| 03  | R and the tidyverse                          | [**html**][tidyverse_html]                | [**rmd**][tidyverse_rmd]   | 
-| 04  | Functions, iteration and debugging        | [**html**][functions_html]                | [**rmd**][functions_rmd]   | 
-| 05  | Web scraping with R            | [**html**][web_scraping_html]                | [**rmd**][web_scraping_rmd]   | 
-| 06  |Modelling with R         | [**html**][modelling_html]                | [**rmd**][modelling_rmd]   | 
-| 07  | Visualization in R                           | [**html**][visualization_html]                | [**rmd**][visualization_rmd]   | 
-| 08  |Working with the Shell          | [**html**][shell_html]                | [**rmd**][shell_rmd]   | 
-| 09  | Debugging and Packaging in R                  | [**html**][debugging_html]                | [**rmd**][debugging_rmd]   | 
-| 10  | Interactive Web Applications with Shiny         | [**html**][shiny_html]                | [**rmd**][shiny_rmd]   | 
-
-
-
+| 01  | Introduction, R basics and best practices    | [**html**][introduction_html]       | [**Rmd**][introduction_rmd]   | 
+| 02  | Version control and project management       | [**html**][version_control_html]  | [**Rmd**][version_control_rmd]  | 
+| 03  | R and the tidyverse                          | [**html**][tidyverse_html]                | [**Rmd**][tidyverse_rmd]   | 
+| 04  | Functions, iteration and debugging        | [**html**][functions_html]                | [**Rmd**][functions_rmd]   | 
+| 05  | Web scraping with R            | [**html**][web_scraping_html]                | [**Rmd**][web_scraping_rmd]   | 
+| 06  |Modelling with R         | [**html**][modelling_html]                | [**Rmd**][modelling_rmd]   | 
+| 07  | Visualization in R                           | [**html**][visualization_html]                | [**Rmd**][visualization_rmd]   | 
+| 08  |Working with the Shell          | [**html**][shell_html]                | [**Rmd**][shell_rmd]   | 
+| 09  | Debugging and Packaging in R                  | [**html**][debugging_html]                | [**Rmd**][debugging_rmd]   | 
+| 10  | Interactive Web Applications with Shiny         | [**html**][shiny_html]                | [**Rmd**][shiny_rmd]   | 
 
 <!-- MARKDOWN LINKS -->
 [introduction_html]: https://raw.githack.com/intro-to-data-science-22/labs/main/session-1-intro/1-intro.html
@@ -28,7 +25,7 @@
 [functions_html]: https://raw.githack.com/intro-to-data-science-22/labs/main/session-4-functions/4-functions.html
 [functions_rmd]: https://github.com/intro-to-data-science-22/labs/blob/main/session-4-functions/4-functions.Rmd
 [web_scraping_html]:https://raw.githack.com/intro-to-data-science-22/labs/main/session-5-web-scraping/5-web-scraping.html
-[web_scraping_rmd]:https://github.com/intro-to-data-science-22/labs/blob/main/session-5-web-scraping/5-web-scraping.html
+[web_scraping_rmd]:https://github.com/intro-to-data-science-22/labs/blob/main/session-5-web-scraping/5-web-scraping.Rmd
 [modelling_html]:https://raw.githack.com/intro-to-data-science-22/labs/main/session-6-modelling/6-modelling.html
 [modelling_rmd]:https://github.com/intro-to-data-science-22/labs/blob/main/session-6-modelling/6-modelling.Rmd
 [visualization_html]: https://raw.githack.com/intro-to-data-science-22/labs/main/session-7-visualization/7-visualization.html
